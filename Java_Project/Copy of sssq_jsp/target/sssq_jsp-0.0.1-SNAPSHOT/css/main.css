@@ -1,0 +1,32 @@
+@import url(base.css); 
+ 
+
+html.rstech_learning_management { width: 80%; background-color: #00FF00 }
+  
+
+h1.rs_tech_section_header {  
+	margin: 0px 0px 0.6em 0px; 
+	padding: 0px 0px 5px 0px; 
+	border-bottom: solid 1px #000000; 
+	color: #000000; 
+	font-size: 160%;
+	background-color: #FF0000
+}
+  
+/* end - width settings
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+ 
+/* Page 111 3.10 */
+.special { font-family: Arial, sans-serif; 
+	color: #0000FF; 
+	background-color: #00FF00 }
+
+
+    
+.special p { font-family: Arial, sans-serif;
+			color: #FFFF00;
+			background-color: #0000FF; }
+
+
+p { font-family: "Times New Roman", serif;
+    color: #FF0000; }			
